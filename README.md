@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##About Me ##
+## About Me ##
 Technology, Strategy, and Data has been a few topics I have been interested in since I was younger. One of my earliest and fondest memories is entering in the startup commands in MS Dos to play one of my favorite videos games. Since then I have focused on learning about computers and programming. One of my core beliefs is Business Strategy drives Data Strategy and Data Strategy drives business strategy, 
 <!--
 **arbecker620/Arbecker620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
